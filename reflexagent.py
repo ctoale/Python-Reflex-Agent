@@ -2,6 +2,8 @@
 
 ## Student name:	Connor Toale
 
+## Reflex agent for an autonomous vacuum
+
 import numpy as np
 
 ACTIONS = ((0, "Go Forward"),
