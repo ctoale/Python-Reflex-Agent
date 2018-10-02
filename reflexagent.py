@@ -2,16 +2,6 @@
 
 ## Student name:	Connor Toale
 
-## Student ID:	000350874
-
-## Assignment #: #1
-
-## Due Date:	02/20/2018
-
-## Signature:	______________
-
-## Score:	______________
-
 import numpy as np
 
 ACTIONS = ((0, "Go Forward"),
